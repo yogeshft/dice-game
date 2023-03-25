@@ -10,7 +10,7 @@ To play the game, simply open the index.html file in a web browser. No additiona
 ## Technology used
 
 HTML5
-##
+#
 CSS3
-##
+#
 JAVASCRIPT
